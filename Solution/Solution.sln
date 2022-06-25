@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{CD2016A8-2067-4C21-A86A-E33BC140FD85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IUPrincipal", "IUPrincipal\IUPrincipal.csproj", "{E2CFC118-5489-4DB3-97A2-CC9AD314FC99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIPrincipal", "IUPrincipal\UIPrincipal.csproj", "{E2CFC118-5489-4DB3-97A2-CC9AD314FC99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
